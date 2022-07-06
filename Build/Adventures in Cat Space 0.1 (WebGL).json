@@ -1,0 +1,13 @@
+{
+"companyName": "BeardRetro",
+"productName": "Adventures in Cat Space - Demo 1",
+"dataUrl": "Adventures in Cat Space 0.1 (WebGL).data.unityweb",
+"asmCodeUrl": "Adventures in Cat Space 0.1 (WebGL).asm.code.unityweb",
+"asmMemoryUrl": "Adventures in Cat Space 0.1 (WebGL).asm.memory.unityweb",
+"asmFrameworkUrl": "Adventures in Cat Space 0.1 (WebGL).asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#BFBFBF"
+}
